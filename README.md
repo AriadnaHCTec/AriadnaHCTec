@@ -1,8 +1,6 @@
-### Hi there 👋, my name is Ariadna Huesca
-#### Computer Science and Technology Student
 ![Computer Science and Technology Student](https://media-exp1.licdn.com/dms/image/C5616AQHPyt0FAmC5Cg/profile-displaybackgroundimage-shrink_350_1400/0/1638802942990?e=1645660800&v=beta&t=g0WDr3GVGWvSZcSOSBwhFS3gj-XAOpKrn_bO5Po7_sQ)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+This is just a test right now, I'm still editing the body :)
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
