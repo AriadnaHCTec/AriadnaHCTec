@@ -1,6 +1,19 @@
 ![Computer Science and Technology Student](https://media-exp1.licdn.com/dms/image/C5616AQHPyt0FAmC5Cg/profile-displaybackgroundimage-shrink_350_1400/0/1638802942990?e=1645660800&v=beta&t=g0WDr3GVGWvSZcSOSBwhFS3gj-XAOpKrn_bO5Po7_sQ)
 
-![Profile views](https://gpvc.arturio.dev/AriadnaHCTec)  
+![Profile views](https://gpvc.arturio.dev/AriadnaHCTec)<br>
+
+✅ I've participated in some programming contests such as ICPC, Facebook Hacker Cup, and Top Tec Programmer; currently I'm preparing for the Regional phase of ICPC (language: C++). Also, I'm helping to rebuild the competitive programming club at my school so new generations will have better preparation for contests.
+
+✅ I'm a member of Quantum Robotics, a multidisciplinary team from 4 different schools, dedicated to design one of the next-generation Rovers, searching to compete in the URC 2022. My area is control, in charge of programming the tasks that the robot must do. In general, the languages used are C++ and Python and the Operating System is Ubuntu (along with ROS).
+
+Interests: 
+- Artificial Intelligence.
+- Robotics.
+- Algorithms and data structures.
+- Medicine.
+- Research.
+- Teaching.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
