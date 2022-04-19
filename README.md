@@ -6,7 +6,8 @@
 
 ✅ I'm a member of Quantum Robotics, a multidisciplinary team from 4 different schools, dedicated to design one of the next-generation Rovers, searching to compete in the URC 2022. My area is control, in charge of programming the tasks that the robot must do. In general, the languages used are C++ and Python and the Operating System is Ubuntu (along with ROS).
 
-Interests: 
+Interests:
+ 
 - Artificial Intelligence.
 - Robotics.
 - Algorithms and data structures.
